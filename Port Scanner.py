@@ -15,7 +15,7 @@ else:
 
 #show progress and commands
 print("+" * 100)
-Print("Authorized only for educational purposes!")
+print("Authorized only for educational purposes!")
 print("Scan in progress for target: " + target)
 print("Scan started at: " + str(datetime.now()))
 print("=" * 100)
