@@ -3,4 +3,4 @@
 
 # Use Case
 pip install pyfiglet  
-  Python Port_Scanner.py "Host IP"
+ Python .\Port_Scanner.py "Host IP or HostName"
